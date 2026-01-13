@@ -1,0 +1,7 @@
+/.vscode
+/mode_modules
+./dist
+
+*.env
+.emv
+.env*
