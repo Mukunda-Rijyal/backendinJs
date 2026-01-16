@@ -21,3 +21,6 @@ npm i bcryptjs
 
 
 // jsonwebtoken  => tokens
+
+Cloudnary
+npm i cloudinary
