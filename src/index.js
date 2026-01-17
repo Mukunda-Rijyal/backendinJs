@@ -4,7 +4,7 @@ import connectDB from "./db/index.js"
 import { app } from "./app.js"
 
 dotenv.config({
-    path: './env'
+    path: './.env'
 })
 
 connectDB()
@@ -17,6 +17,7 @@ connectDB()
         console.error("Failed to connect to the database:", error)
         process.exit(1)
     })
+
 
 /*
 
